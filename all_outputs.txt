@@ -1,0 +1,94 @@
+problem-1 
+output:
+"ac" 1
+"adipiscing" 1
+"amet" 1
+"condimentum" 1
+"consectetur" 1
+"dolor" 1
+"donec" 1
+"elit" 1
+"felis" 1
+"id" 1
+"ipsum" 1
+"laoreet" 1
+"lorem" 1
+"luctus" 1
+"mattis" 1
+"mauris" 1
+"nulla" 1
+"placerat" 1
+"risus" 1
+"scelerisque" 1
+"sit" 1
+"tortor" 1
+"varius" 1
+"vel" 1
+
+problem-2
+output:
+"as" 1
+"be" 1
+"common" 1
+"contains" 1
+"input" 1
+"output" 1
+"removed" 1
+"sample" 1
+"should" 1
+"some" 1
+"stopwords" 1
+"such" 1
+"text" 1
+"these" 1
+"this" 1
+"words" 1
+
+
+problem-3
+output:
+"a,man" 1
+"man,a" 1
+"a,plan" 2
+"plan,a" 1
+"a,canal" 3
+"canal,panama" 1
+"panama,there" 1
+"there,was" 1
+"was,a" 1
+"plan,to" 1
+"to,build" 1
+"build,a" 1
+"canal,in" 1
+"in,panama" 2
+"panama,in" 1
+"panama,a" 1
+"was,built" 1
+
+
+problem-4
+output:
+"ac" Document 3
+"adipiscing" Document 1
+"amet" Document 1, Document 3
+"condimentum" Document 2
+"consectetur" Document 1
+"dolor" Document 1
+"donec" Document 2
+"elit" Document 1, Document 2, Document 3
+"felis" Document 3
+"id" Document 2
+"ipsum" Document 1
+"laoreet" Document 2
+"lorem" Document 1
+"luctus" Document 3
+"mattis" Document 3
+"mauris" Document 2
+"nulla" Document 3
+"placerat" Document 2
+"risus" Document 3
+"scelerisque" Document 3
+"sit" Document 1, Document 3
+"tortor" Document 2
+"varius" Document 2, Document 3
+"vel" Document 2
